@@ -1,2 +1,3 @@
 rootProject.name='JustApiLoader'
 include ':app'
+include ':just-apiloader'
